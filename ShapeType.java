@@ -1,0 +1,4 @@
+
+public enum ShapeType {
+	FREEDRAW, CIRCLE, RECTANGLE, TRIANGLE, LINE, ENDFREEDRAW
+}
